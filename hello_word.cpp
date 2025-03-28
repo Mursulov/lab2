@@ -1,5 +1,5 @@
 #include <iostream>
-//1
+//изменение для конфликта
 int main() {
     std::string name;
     std::cout << "Enter your name: ";
